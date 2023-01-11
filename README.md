@@ -9,7 +9,7 @@ A highly available application has higher chances of attracting customers becaus
 <h2>Environments Used </h2>
 
 - <b>AWS EC2</b>
-- <b>Load balancer</b>
+- <b>Application load balancer</b>
 - <b>Terraform</b> 
 
 <h2>Walk-through:</h2>
